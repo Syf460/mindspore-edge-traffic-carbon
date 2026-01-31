@@ -41,6 +41,7 @@
 以下为比赛期间在边缘设备上的实际运行效果示意：
 
 ![车辆检测效果示例](assets/demo_detection.png)
+![DeepSeek 输出示例](assets/attend_deepseek.jpg)
 
 
 ## 使用说明
